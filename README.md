@@ -25,5 +25,5 @@ Tests are stored in a folder at the same level
 ../tests/dbreadoperations.py - execute tests for both access patterns against all 4 tables
 
 ## Blog
-Read this [article](https://dev.to/tom_millner/dynamodb-when-to-use-a-gsi-6h5-temp-slug-8425817) to walk through tutorial and details/learnings on how I built this application
+Read this [article](https://dev.to/aws-builders/dynamodb-single-table-design-how-to-use-a-gsi-26eo) to walk through tutorial and details/learnings on how I built this application
 
